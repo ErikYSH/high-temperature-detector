@@ -31,5 +31,6 @@ import java.util.Scanner;
         }
         System.out.println("Shih-Hung Yang Lab 6A");
         System.out.printf("Highest Month is %d \n",highestMonth);
+        System.out.printf("Highest Temperature is %s Fahrenheit\n",hightestValue);
     }
  }
